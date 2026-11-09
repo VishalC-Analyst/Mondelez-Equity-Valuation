@@ -34,7 +34,7 @@ Analyse Mondelez's financial performance (2019 to 2023), forecast its financials
 Microsoft Excel (financial modelling, DCF, sensitivity analysis)
 
 ## Files
-- [Equity Research Report (PDF)](Mondelez_Equity_Research_Report.pdf)
+- [Equity Research Report (PDF)]([Mondelez_Equity_Research_Report.pdf](https://github.com/VishalC-Analyst/Mondelez-Equity-Valuation/blob/main/1.MONDELEZ%20INT.(EQUITY%20RESEARCH%20REPORT)-VISHAL%20C-PGFAP-BATCH2.pdf))
 
 ## Author
 Vishal C | PG Program in Financial Analysis, Imarticus Learning | Business Analyst
